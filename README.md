@@ -1,2 +1,4 @@
 # killing3000
-Development tool box .lt's combined super weapons
+Cross-platform desktop toolbox application for improving your work development.
+It's combined by many super weapons.
+
